@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Yongjun Wang
-- 👀 I’m interested in Web/Python/C++/Linux development
-- 🌱 I’m currently learning FrontEnd development
+- 👀 I’m interested in C++/Web/Python/Linux development
 - 📫 Email: to_wyj@126.com
 
 <!---
