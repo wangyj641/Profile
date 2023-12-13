@@ -1,5 +1,5 @@
 # YONGJUN WANG
-I’m interested in C++/Web/Python/Linux development  
+I’m interested in Web/Python/C++/Linux development  
 Email: wangyj641@gmail.com
 
 <!---
